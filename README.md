@@ -25,3 +25,19 @@ These are the certifications and training programs that best represent my techni
 - ISC2 Certified in Cybersecurity (CC)
 
 One of the strongest foundations in my cybersecurity journey, focused on networking, security operations, and enterprise infrastructure.
+
+# 🏴 Hands-On Experience
+
+In addition to certifications, this repository includes:
+
+- Capture The Flag (CTF) participation
+- Security labs and practical exercises
+- Vendor-based cybersecurity training
+- Technical workshops and extracurricular learning
+
+Notable achievements include:
+
+- 🥇 University Champion at **HACKDEF8 CTF**, a national cybersecurity competition
+- 🏅 Top 5 finalist at **SheSecures Mexico CTF** by hackrocks and the OAS (Organization of American States), competing among top female cybersecurity talent across Mexico
+
+This combination of theoretical knowledge, competitive experience, and hands-on practice has strengthened both my analytical and defensive cybersecurity skills.
