@@ -23,6 +23,9 @@ These are the certifications and training programs that best represent my techni
 - Cisco CCNA
 - Cisco CyberOps Associate
 - ISC2 Certified in Cybersecurity (CC)
+- Fortinet NSE1, NSE2
+- Palo Alto Networks Certified Cybersecurity Apprentice, Practitioner
+- Proofpoint Security Awareness 
 
 One of the strongest foundations in my cybersecurity journey, focused on networking, security operations, and enterprise infrastructure.
 
