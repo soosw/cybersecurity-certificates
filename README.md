@@ -29,7 +29,9 @@ These are the certifications and training programs that best represent my techni
 - Proofpoint Security Awareness
 
 By European University:
+
 🎓 Web Application Security Auditing (3 ECTS / Grade: 10.0/10): University of Murcia — Specialized training in web vulnerability exploitation (OWASP Top 10) and technical audit reporting.
+
 🎓 Information Security (3 ECTS): Universitat Politècnica de València — Academic credential in information security management, risk assessment, and corporate governance.
 
 One of the strongest foundations in my cybersecurity journey, focused on networking, security operations, and enterprise infrastructure.
