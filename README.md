@@ -22,10 +22,15 @@ These are the certifications and training programs that best represent my techni
 
 - Cisco CCNA
 - Cisco CyberOps Associate
+- Cisco Ethical Hacker
 - ISC2 Certified in Cybersecurity (CC)
 - Fortinet NSE1, NSE2
 - Palo Alto Networks Certified Cybersecurity Apprentice, Practitioner
-- Proofpoint Security Awareness 
+- Proofpoint Security Awareness
+
+By European University:
+🎓 Web Application Security Auditing (3 ECTS / Grade: 10.0/10): University of Murcia — Specialized training in web vulnerability exploitation (OWASP Top 10) and technical audit reporting.
+🎓 Information Security (3 ECTS): Universitat Politècnica de València — Academic credential in information security management, risk assessment, and corporate governance.
 
 One of the strongest foundations in my cybersecurity journey, focused on networking, security operations, and enterprise infrastructure.
 
@@ -40,7 +45,8 @@ In addition to certifications, this repository includes:
 
 Notable achievements include:
 
-- 🥇 University Champion at **HACKDEF8 CTF**, a national cybersecurity competition
-- 🏅 Top 5 finalist at **SheSecures Mexico CTF** by hackrocks and the OAS (Organization of American States), competing among top female cybersecurity talent across Mexico
+- 🥇 University Champion at **HACKDEF8 CTF**, a national student cybersecurity competition (2024)
+- 🏅 Top 5 Finalist | HACKMEX IPN Cybersecurity Competition (2026)
+- 🏅 Top 5 finalist at **SheSecures Mexico CTF** by hackrocks and the OAS (Organization of American States), competing among top female cybersecurity talent across Mexico (2024 & 2025)
 
 This combination of theoretical knowledge, competitive experience, and hands-on practice has strengthened both my analytical and defensive cybersecurity skills.
